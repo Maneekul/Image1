@@ -7,3 +7,4 @@
 This is block diagram
 ![image](https://github.com/Maneekul/Image1/assets/157412184/9d8b2c97-9086-4c6d-a405-013f90950927)
 
+![image](https://github.com/Maneekul/Image1/assets/157412184/e0f8d9ca-d138-4d94-beda-7be13759b0fb)
